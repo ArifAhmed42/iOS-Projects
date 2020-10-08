@@ -1,0 +1,7 @@
+
+Showing Recent Issues
+
+Build target imageViewer of project imageViewer with configuration Release
+error: Signing for "imageViewer" requires a development team. Select a development team in the Signing & Capabilities editor. (in target 'imageViewer' from project 'imageViewer')
+
+
